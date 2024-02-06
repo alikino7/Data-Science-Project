@@ -1,2 +1,2 @@
-# Data-Science-Project
+# Data-Science-Projects
 My personal data science projects
